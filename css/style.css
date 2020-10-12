@@ -11146,7 +11146,7 @@ header .top-navbar-brand .top-logo:active, header .top-navbar-brand .top-logo:fo
     z-index: 0;
   }
   .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
-    opacity: .3;
+    opacity: .5;
   }
   .owl-carousel.home-slider .slider-item .slider-text .one-third:after {
     opacity: 0;
