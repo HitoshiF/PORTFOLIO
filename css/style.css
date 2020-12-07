@@ -11222,6 +11222,7 @@ header .top-navbar-brand .top-logo:active, header .top-navbar-brand .top-logo:fo
   font-size: 72px;
   line-height: 1.2;
   font-weight: 600;
+  letter-spacing: -0.07em;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h2 a {
@@ -11537,6 +11538,7 @@ header .top-navbar-brand .top-logo:active, header .top-navbar-brand .top-logo:fo
   font-size: 72px;
   line-height: 1.2;
   font-weight: 600;
+  letter-spacing: -0.07em;
 }
 
 .hero-wrap .text .bread .hd {
@@ -12150,6 +12152,7 @@ textarea.form-control {
   font-size: 72px;
   line-height: 1.2;
   font-weight: 600;
+  letter-spacing: -0.07em;
 }
 
 .ftco-section h2 .hd {

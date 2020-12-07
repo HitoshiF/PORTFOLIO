@@ -585,13 +585,12 @@ header{
 						font-size: 20px;
 						color: $black;
 					}
-					span.play{
-					}
 				}
 				h2{
 					font-size: 72px;
 					line-height: 1.2;
 					font-weight: 600;
+					letter-spacing: -0.07em;
 					a{
 						color: $white;
 					}
@@ -848,6 +847,7 @@ header{
 			font-size: 72px;
 			line-height: 1.2;
 			font-weight: 600;
+			letter-spacing: -0.07em;
 			.hd{
 				color: #FF2E63;
 			}
@@ -1315,8 +1315,6 @@ textarea.form-control {
 	img{
 		border-radius: 50%;
 	}
-	.bio{
-	}
 	.desc{
 		h3{
 			font-size: 24px;
@@ -1333,6 +1331,7 @@ textarea.form-control {
 		font-size: 72px;
 		line-height: 1.2;
 		font-weight: 600;
+		letter-spacing: -0.07em;
 		.hd{
 			color: #FF2E63;
 		}
@@ -1780,9 +1779,6 @@ textarea.form-control {
 		}
 	}
 	.media-body {
-		.heading {
-
-		}
 		p {
 			color: #252A34;
 			font-size: 14px;
@@ -1813,8 +1809,6 @@ textarea.form-control {
 
 //### .block-18 
 .block-18 {
-	.icon, .text {
-	}
 	.icon {
 		> span {
 			font-size: 40px;
